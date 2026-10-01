@@ -1,0 +1,1 @@
+# Read-License-Plate-with-EasyOCR-with-Python
